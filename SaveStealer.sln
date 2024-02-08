@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SaveStealer", "SaveStealer\SaveStealer.csproj", "{4906A11C-2214-4621-8BDE-351D045873C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4906A11C-2214-4621-8BDE-351D045873C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4906A11C-2214-4621-8BDE-351D045873C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4906A11C-2214-4621-8BDE-351D045873C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4906A11C-2214-4621-8BDE-351D045873C1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D16220C5-339E-4468-976C-1009A9C773F7}
+	EndGlobalSection
+EndGlobal
