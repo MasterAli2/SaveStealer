@@ -14,13 +14,13 @@ namespace SaveStealer
 {
     [BepInPlugin(modGUID, modName, modVersion)]
 
-    [BepInDependency("Pooble-LCBetterSaves-1.7.3")]
-    [BepInDependency("LethalAPI-LethalAPI_Terminal-1.0.1")]
+    [BepInDependency("LCBetterSaves")]
+    [BepInDependency("LethalAPI.Terminal")]
     public class SaveStealerBase : BaseUnityPlugin
     {
         public const string modGUID = "MasterAli2.SaveStealer";
         public const string modName = "Save Stealer";
-        public const string modVersion = "0.0.1";
+        public const string modVersion = "0.0.3";
 
         private readonly Harmony harmony = new Harmony(modGUID);
 
