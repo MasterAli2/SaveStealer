@@ -13,6 +13,9 @@ using System;
 namespace SaveStealer
 {
     [BepInPlugin(modGUID, modName, modVersion)]
+
+    [BepInDependency("Pooble-LCBetterSaves-1.7.3")]
+    [BepInDependency("LethalAPI-LethalAPI_Terminal-1.0.1")]
     public class SaveStealerBase : BaseUnityPlugin
     {
         public const string modGUID = "MasterAli2.SaveStealer";
