@@ -14,7 +14,8 @@ To copy a save go to the terminal and type in:
 
 `steal [saveNumber]` 
 
-> Note: if the save Number is higher than 3 or lower than 0 it will not show up.
+> Note: 
+> If the save Number is higher than 3 or lower than 0 it will not show up.
 
 This mod is client-side so only YOU must have it.
 
